@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: jdom-1.1.jar commons-beanutils-1.8.0.jar commons-logging-1
+ .2.jar logback-core-0.9.28.jar httpclient-4.4.1.jar junit-4.10.jar co
+ mmons-codec-1.9.jar commons-lang-2.6.jar commons-collections-3.2.1.ja
+ r httpcore-4.4.1.jar json-lib-2.4-jdk15.jar ezmorph-1.0.6.jar slf4j-a
+ pi-1.7.11.jar commons-pool2-2.2.jar hamcrest-core-1.1.jar aliyun-sdk-
+ oss-2.2.1.jar logback-classic-0.9.28.jar
+Main-Class: aliyun.GetStartedSample
+
